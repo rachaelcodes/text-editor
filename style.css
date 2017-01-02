@@ -1,0 +1,27 @@
+body {
+	background-color: #FF4E50;}
+#content {
+	margin: auto;
+	border-radius: 25px;
+	padding: 10px;
+	font-family: 'Aref Ruqaa', serif;
+	font-size: 26px;
+	color: #020100;
+	background-color: #EDE574;
+	max-width: 90%;}
+#heading {
+	border-radius: 25px;
+	margin: auto;
+	margin-bottom: 30px;
+	padding: 10px;
+	font-family: 'Carter One', cursive;
+	font-size: 30px;
+	color: #020100;
+	background-color: #FC913A;
+	max-width: 90%;}
+	
+div:focus {
+  outline: none;
+}
+
+	/* palette from: http://www.colourlovers.com/palette/937624/Dance_To_Forget */

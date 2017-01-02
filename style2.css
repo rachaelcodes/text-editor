@@ -1,0 +1,25 @@
+body {
+	background-color: #000000;}
+#content {
+	margin: auto;
+	border-radius: 25px;
+	padding: 10px;
+	font-family: 'Ubuntu', sans-serif;
+	font-size: 24px;
+	color: #78F000;
+	max-width: 90%;}
+#heading {
+	border-radius: 25px;
+	margin: auto;
+	margin-bottom: 15px;
+	padding: 10px;
+	font-family: 'VT323', monospace;
+	font-size: 36px;
+	color: #78F000;
+	max-width: 90%;}
+	
+div:focus {
+  outline: none;
+}
+
+	/* palette from: http://www.colourlovers.com/palette/144032/360_Green */
